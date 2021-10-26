@@ -28,9 +28,9 @@ Caso o bebê não tenha sido amamentado, geralmente, a enfermeira não espera a 
 
 ### 2.2 Vômito marron
 
-É noraml, pergunte à enfermeira. É líquido ingerido no parto.
+É normal, pergunte à enfermeira. É líquido ingerido no parto.
 
-## 3 Pós parto
+## 3 Pós-parto
 
 Em caso de cesariana a mãe estará quase que totalmente incapacitada. O pai vai precisar de ajuda, va ter que cuidar do bebê a da mãe.
 
