@@ -40,7 +40,7 @@ Quando o bebê dormir, durma!
 
 ### 4.1 Banho de chuveiro
 
-Atenção às técnicas: https://www.youtube.com/watch?v=Ns-houodXxw
+Atenção às técnicas: [Banho de chuveiro](https://www.youtube.com/watch?v=Ns-houodXxw)
 
 O banho de chuveiro noturno é o momento do papai, aproveite!
 
@@ -54,6 +54,6 @@ Acostumar o bebê com alguma coisa exige paciência, quanto mais novo mais fáci
 
 Mesmo que a mãe não trabalha e decida amamentar no peito, haverão situações em que pode ser necessário dar mamadeira. Além disso, é bom que o pai possa dar uma mamadeira de vez em quando e alguma outra pessoa pode ficar com o bebê uma vez na semana para os pais descansarem. 
 
-As 3 mamadeiras: https://www.youtube.com/watch?v=eQr_iUuaGJU
+[As 3 mamadeiras](https://www.youtube.com/watch?v=eQr_iUuaGJU)
 
-Dicas para o pai na amamentação: https://www.youtube.com/watch?v=rdXdgGlyvt0
+[Dicas para o pai na amamentação](https://www.youtube.com/watch?v=rdXdgGlyvt0)
