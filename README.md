@@ -33,3 +33,21 @@ Caso o bebê não tenha sido amamentado, geralmente, a enfermeira não espera a 
 ## 3 Pós parto
 
 Em caso de cesariana a mãe estará quase que totalmente incapacitada. O pai vai precisar de ajuda, va ter que cuidar do bebê a da mãe.
+
+## 4 Cuidados Bebê
+
+### 4.1 Banho de chuveiro
+
+Atenção às técnicas. 
+
+O banho de chuveiro noturno é o momento do papai, aproveite!
+
+### 4.2 Amamentação
+
+O recém nascido não está acostumado a nada, vai se acostumar com o que for dado, seja mamadeira, peito ou os dois. 
+
+Acostumar o bebê com alguma coisa exige paciência, quanto mais novo mais fácil. É muito mais difícil mudar costumes do que criar. 
+
+É um direito da mãe escolher o tipo de amamentação. Caso a mãe trabalha, mesmo  que decida amamentar no peito é bom já acostumar com mamadeira também, deixar pra depois pode tornar o processo muito complicado. 
+
+Mesmo que a mãe não trabalha e decida amamentar no peito, haverão situações em que pode ser necessário dar mamadeira. Além disso, é bom que o pai possa dar uma mamadeira de vez em quando e alguma outra pessoa pode ficar com o bebê uma vez na semana para os pais descansarem. 
