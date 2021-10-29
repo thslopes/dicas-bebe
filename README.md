@@ -66,7 +66,7 @@ O bebê deve dormir no berço. Se dormir no colo e acordar no berço ele não do
 
 Não deixar o bebê chorando no berço! Se estiver chorando, pegar, acalmar e quando estiver quase dormindo devolver ao berço. 
 
-Essa técnica é do livro [A encantadora de bebês resolve todos os seus problemas](http://amazon.com)
+Essa técnica é do livro [A encantadora de bebês](https://www.estantevirtual.com.br/busca?q=Tracy%20Hogg)
 
 Se o bebê se acostumar a dormir mamando no peito pode ser difícil para o pai conseguir fazer o bebê dormir. No método EASY(#4.4) o bebê acorda para mamar e não mama para dormir
 
