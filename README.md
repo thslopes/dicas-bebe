@@ -60,7 +60,7 @@ Mesmo que a mãe não trabalha e decida amamentar no peito, haverão situações
 
 ### 4.3 Dormir
 
-O bebê deve dormir no berço. Se dormir no colo e acordar no berço ele não dorme novamente, procura o clip para dormir de novo. 
+O bebê deve dormir no berço. Se dormir no colo e acordar no berço ele não dorme novamente, procura o colo  para dormir de novo. 
 
 É muito trabalhoso e exige muita paciência. 
 
