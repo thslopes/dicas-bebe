@@ -107,13 +107,15 @@ A rotina não responde, mas ajuda a responder. No início o bebê chora porque e
 
 [Canal Comeu Tudo](https://www.youtube.com/channel/UCdEfXAsy9WukQ1AyWXJoFeQ)
 
-### Não precisa de Papinha (nem é bom)
+### 5.1 Não precisa de Papinha (nem é bom)
 
 Se tudo o que o bebê pega ele bota na boca, não tem porque a introdução alimentar ser difícil(mas será!). 
 
 A forma mais fácil e natural é preparar os alimentos de forma que o bebê possa pegar e botar na boca. Fácil fazer isso com verduras, frutas e legumes. No [Canal Comeu Tudo](https://www.youtube.com/channel/UCdEfXAsy9WukQ1AyWXJoFeQ) a nutricionista ensina alguns preparos.
 
 Este é o momento do bebê se acostumar com comida, se ele como papinha ele não se acostuma com comida. Geralmente isso não gera problemas, mas pode dificultar muito quando você quiser que a criança coma comida e ela só quer papinha.
+
+O bebê não gosta de nada, ele não conhece e não está acostumado com nada. Seja paciente e persistente!
 
 A Laura, com 6 meses, começou a comer comida. Com pouco sal, nem tudo o que nós comíamos, mas, basicamente, a mesma comida feita para eu e Léia. Sem dentes, mas adorava churrasco.
 
