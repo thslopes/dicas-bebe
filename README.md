@@ -60,7 +60,7 @@ Mesmo que a mãe não trabalha e decida amamentar no peito, haverão situações
 
 ### 4.3 Dormir
 
-O bebê deve dormir no berço. Se dormir no colo e acordar no berço ele não dorme novamente, procura o colo  para dormir de novo. 
+O bebê deve dormir no berço. Se dormir no colo e acordar no berço ele não dorme novamente, procura o colo para dormir de novo. Se só dorme no peito, chama a mãe.
 
 É muito trabalhoso e exige muita paciência. 
 
@@ -68,7 +68,9 @@ Não deixar o bebê chorando no berço! Se estiver chorando, pegar, acalmar e qu
 
 Essa técnica é do livro [A encantadora de bebês](https://www.estantevirtual.com.br/busca?q=Tracy%20Hogg)
 
-Se o bebê se acostumar a dormir mamando no peito pode ser difícil para o pai conseguir fazer o bebê dormir. No método EASY(#4.4) o bebê acorda para mamar e não mama para dormir
+Se o bebê se acostumar a dormir mamando no peito pode ser difícil para o pai conseguir fazer o bebê dormir. No método EASY(#4.4) o bebê acorda para mamar e não mama para dormir.
+
+Ajuda ter um som e movimento constante. No carro o bebê dorme com facilidade, principalmente se for um fusca. No útero o barulho é alto e constante.
 
 ### 4.4 Método EASY ou Rotina Estruturada 
 
@@ -85,12 +87,40 @@ Não é deixar o bebê chorar porquê não está na hora. Se ele estiver com fom
 
 No início tem que acordar o bebê para mamar, então, se os pais quiserem, a rotina pode ser implementada naturalmente. 
 
-O bebê dificilmente rejeita o peito, e o peito acalma o bebê, mas não quer dizer que estava com fome. 
+*O bebê dificilmente rejeita o peito, e o peito acalma o bebê, mas não quer dizer que estava com fome.*
 
-### Sono Noturno
+## 4.5 Sono Noturno
 
 Com a rotina estruturada de três horas (padrão inicial) em poucas semanas dá pra aumentar o período de sono noturno. 
 
 Por exemplo, se o bebê deve mamar 23h, 2h e 5h da manhã em algumas semana dá pra adiantar a última mamada do dia e atrasar a segunda, fica 22h, 2h e 6h. 
 
 Os intervalos da madrugada mudam de 3 para 4 horas, o que faz muita diferença para quem está extremamente cansada, e o bebê quase não acorda na mamada da madrugada, então são quase 8 horas de sono. 
+
+### 4.6 Vantagens do Método EASY ou Rotina Estruturada
+
+*Tá chorando por que?*
+
+A rotina não responde, mas ajuda a responder. No início o bebê chora porque está com fome, porque está sujo ou porque tem algo o incomodando. Se for oferecido o peito o bebê pode parar de chorar, mesmo que esse não seja o motivo do choro. Como já foi dito, **o bebê dificilmente rejeita o peito, e o peito acalma o bebê, mas não quer dizer que estava com fome.**
+
+## 5 Introdução Alimentar
+
+[Canal Comeu Tudo](https://www.youtube.com/channel/UCdEfXAsy9WukQ1AyWXJoFeQ)
+
+### Não precisa de Papinha (nem é bom)
+
+Se tudo o que o bebê pega ele bota na boca, não tem porque a introdução alimentar ser difícil(mas será!). 
+
+A forma mais fácil e natural é preparar os alimentos de forma que o bebê possa pegar e botar na boca. Fácil fazer isso com verduras, frutas e legumes. No [Canal Comeu Tudo](https://www.youtube.com/channel/UCdEfXAsy9WukQ1AyWXJoFeQ) a nutricionista ensina alguns preparos.
+
+Este é o momento do bebê se acostumar com comida, se ele como papinha ele não se acostuma com comida. Geralmente isso não gera problemas, mas pode dificultar muito quando você quiser que a criança coma comida e ela só quer papinha.
+
+A Laura, com 6 meses, começou a comer comida. Com pouco sal, nem tudo o que nós comíamos, mas, basicamente, a mesma comida feita para eu e Léia. Sem dentes, mas adorava churrasco.
+
+## Esteja Preparado
+
+*TODO*
+ - O bebê vai engasgar, esteja preparado para desengasgá-lo;
+ - Vai ter febre, principalmente quando começar a sair os dentes;
+ - Nariz escorrendo vai atrapalhar o bebê a dormir em algum momento;
+ - O que a criança pegar vai botar na boca
