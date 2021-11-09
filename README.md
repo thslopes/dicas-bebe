@@ -121,6 +121,6 @@ A Laura, com 6 meses, começou a comer comida. Com pouco sal, nem tudo o que nó
 
 *TODO*
  - O bebê vai engasgar, esteja preparado para desengasgá-lo;
- - Vai ter febre, principalmente quando começar a sair os dentes;
+ - Vai ter febre, principalmente quando os dentes começarem a sair;
  - Nariz escorrendo vai atrapalhar o bebê a dormir em algum momento;
- - O que a criança pegar vai botar na boca
+ - O que a criança pegar vai botar na boca.
