@@ -76,10 +76,11 @@ Ajuda ter um som e movimento constante. No carro o bebê dorme com facilidade, p
 
 Este método consiste em estruturar a rotina do bebê em um ciclo de três etapas: comer, atividade e dormir, enquanto o bebê dorme você se cuida. 
 
-Eat (comer)<br/>
-Activity (atividade)<br/>
-Sleep (dormir)<br/>
-You (você)
+EASY - Eat (comer) Activity (atividade) Sleep (dormir) You (você)
+
+Nunca será “easy”, mas ajuda. 
+
+No começo *atividade* é só trocar a fralda, dizer “oi” e o bebê dorme novamente. 
 
 A rotina estruturada ajuda a entender o que o bebê quer. No início só quer mamar e dormir. Com a rotina estruturada fica fácil saber. 
 
@@ -102,6 +103,8 @@ Os intervalos da madrugada mudam de 3 para 4 horas, o que faz muita diferença p
 *Tá chorando por que?*
 
 A rotina não responde, mas ajuda a responder. No início o bebê chora porque está com fome, porque está sujo ou porque tem algo o incomodando. Se for oferecido o peito o bebê pode parar de chorar, mesmo que esse não seja o motivo do choro. Como já foi dito, **o bebê dificilmente rejeita o peito, e o peito acalma o bebê, mas não quer dizer que estava com fome.**
+
+Acordou, mamou, trocou a fralda, se o bebê ainda está chorando está incomodado. 
 
 ## 5 Introdução Alimentar
 
