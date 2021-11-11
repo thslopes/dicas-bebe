@@ -16,9 +16,9 @@ No parto da Laura o médico chegou no quarto e perguntou se a enfermeira tinha l
 
 Em caso de parto normal é importante estudar as técnicas e se preparar fisicamente, no caso de cesariana preparar o acompanhante para dar assistência nas primeiras semanas
 
-Deixar as mochilas previamente preparadas.
+Deixar as mochilas previamente preparadas. [O que levar](https://youtu.be/O7CEG8u4oB8)
 
-Estar descansada.
+Estar descansado.
 
 ## 2 Na maternidade
 
