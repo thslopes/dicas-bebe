@@ -1,5 +1,7 @@
 # Dicas Bebê
 
+*Ser pai é estar apaixonado por uma pessoa que prefere outra... más não importa.*
+
 ## 1 Pré Maternidade
 
 ### 1.1 Selecionar obstetra de acordo com o tipo de parto desejado
@@ -130,3 +132,5 @@ A Laura, com 6 meses, começou a comer comida. Com pouco sal, nem tudo o que nó
  - Nariz escorrendo vai atrapalhar o bebê a dormir em algum momento, [adorador nasal, não vai beber catarro](https://www.amazon.com.br/dp/B07G3HWFQL);
  - O que a criança pegar vai botar na boca;
  - Conheço duas mães que tomaram o seguinte esporro da pediatra: criança que não fica no chão não engatinha. 
+
+Poderia dizer muitas outras coisas, mas você não está preparado pra essa conversa. 
