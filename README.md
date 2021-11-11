@@ -125,7 +125,8 @@ A Laura, com 6 meses, começou a comer comida. Com pouco sal, nem tudo o que nó
 ## Esteja Preparado
 
 *TODO*
- - O bebê vai engasgar, esteja preparado para desengasgá-lo;
- - Vai ter febre, principalmente quando os dentes começarem a sair;
- - Nariz escorrendo vai atrapalhar o bebê a dormir em algum momento;
- - O que a criança pegar vai botar na boca.
+ - O bebê vai engasgar, esteja preparado para desengasgá-lo; [Vídeo](https://youtu.be/l0sQgMRZiqo) 
+ - Vai ter febre, principalmente quando os dentes começarem a sair, tem noveleis cereja;
+ - Nariz escorrendo vai atrapalhar o bebê a dormir em algum momento, [adorador nasal, não vai beber catarro](https://www.amazon.com.br/dp/B07G3HWFQL);
+ - O que a criança pegar vai botar na boca;
+ - Conheço duas mães que tomaram o seguinte esporro da pediatra: criança que não fica no chão não engatinha. 
