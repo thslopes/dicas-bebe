@@ -80,7 +80,7 @@ Este método consiste em estruturar a rotina do bebê em um ciclo de três etapa
 
 EASY - 
 
-*E*at (comer) - primeiro vive acorda o bebê para comer. 
+*E*at (comer) - primeiro você acorda o bebê para comer. 
 
 *A*ctivity (atividade) - depois você interage com o bebê. 
 
