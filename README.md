@@ -6,7 +6,7 @@
 
 ### 1.1 Selecionar obstetra de acordo com o tipo de parto desejado
 
-Se foi escolhido o parto normal há um preparo necessário e técnicas para indução do parto, obstetras que fazem cesariana tendem a forçar a cesariana não avisando sobre as técnicas de indução do parto normal.
+Se foi escolhido o parto normal há um preparo necessário e técnicas para indução do parto, obstetras que fazem cesariana tendem a forçar a cesariana não avisando sobre as técnicas de indução ao parto normal.
 
 ### 1.2 Se informar previamente com o obstetra sobre cuidados pós-parto
 
@@ -24,7 +24,7 @@ Estar descansado.
 
 ### 2.1 Horário amamentação
 
-Caso opte por amamentação no peito estar atenta aos horários pois a enfermeira não pode deixar passar da hora. Em geral o intervalo deve ser de 3 horas. Vale chamar a enfermeira antes e pedir para ajudar a amamentar caso tenha dificuldades (é comum o bebê não pegar o peito no início)
+Caso opte por amamentação no peito esteja atento aos horários pois a enfermeira não pode deixar passar da hora da alimentação. Em geral o intervalo deve ser de 3 horas. Vale chamar a enfermeira antes e pedir para ajudar a amamentar caso tenha dificuldades (é comum o bebê não pegar o peito no início)
 
 Caso o bebê não tenha sido amamentado, geralmente, a enfermeira não espera a mãe amamentar e dá a mamadeira.
 
@@ -50,11 +50,11 @@ O banho de chuveiro noturno é o momento do papai, aproveite!
 
 O recém nascido não está acostumado a nada, vai se acostumar com o que for dado, seja mamadeira, peito ou os dois. 
 
-Acostumar o bebê com alguma coisa exige paciência, quanto mais novo mais fácil. É muito mais difícil mudar costumes do que criar. 
+Acostumar o bebê com alguma coisa exige paciência, quanto mais novo mais fácil. É muito mais difícil mudar costumes do que criar novos. 
 
 É um direito da mãe escolher o tipo de amamentação. Caso a mãe trabalhe ou mesmo que decida amamentar no peito é bom já acostumar com mamadeira também, deixar pra depois pode tornar o processo muito complicado. 
 
-Mesmo que a mãe não trabalha e decida amamentar no peito, haverão situações em que pode ser necessário dar mamadeira. Além disso, é bom que você possa dar uma mamadeira de vez em quando e alguma outra pessoa pode ficar com o bebê uma vez na semana para os pais descansarem. 
+Mesmo que a mãe não trabalha e decida amamentar no peito, haverão situações em que pode ser necessário dar mamadeira. Além disso, é bom que você possa dar uma mamadeira de vez em quando, e alguma outra pessoa pode ficar com o bebê de vez em quando para os pais descansarem. 
 
 [As 3 mamadeiras](https://www.youtube.com/watch?v=eQr_iUuaGJU)
 
@@ -62,15 +62,15 @@ Mesmo que a mãe não trabalha e decida amamentar no peito, haverão situações
 
 ### 4.3 Dormir
 
-O bebê deve dormir no berço. Se dormir no colo e acordar no berço ele não dorme novamente, procura o colo para dormir de novo. Se só dorme no peito, chama a mãe.
+O bebê deve dormir no berço. Se dormir no colo e acordar no berço ele não dorme novamente, procura o colo para dormir de novo. Se só dorme no peito, chama a mãe sempre que acorda pra dormir no peito novamente.
 
 É muito trabalhoso e exige muita paciência. 
 
-Não deixar o bebê chorando no berço! Se estiver chorando, pegar, acalmar e quando estiver quase dormindo devolver ao berço. 
+Não deixar o bebê chorando no berço! Se estiver chorando, alguém deve pegar, acalmar e quando estiver quase dormindo devolver ao berço. 
 
 Essa técnica é do livro [A encantadora de bebês](https://www.estantevirtual.com.br/busca?q=Tracy%20Hogg)
 
-Se o bebê se acostumar a dormir mamando no peito pode ser difícil para você conseguir fazer o bebê dormir. No método EASY(#4.4) o bebê acorda para mamar e não mama para dormir.
+Se o bebê se acostumar a dormir mamando no peito será difícil para você conseguir fazer o bebê dormir sem a mãe. No método EASY(#4.4) o bebê acorda para mamar e não mama para dormir.
 
 Ajuda ter um som e movimento constante. No carro o bebê dorme com facilidade, principalmente se for um fusca. No útero o barulho é alto e constante.
 
@@ -78,7 +78,15 @@ Ajuda ter um som e movimento constante. No carro o bebê dorme com facilidade, p
 
 Este método consiste em estruturar a rotina do bebê em um ciclo de três etapas: comer, atividade e dormir, enquanto o bebê dorme você se cuida. 
 
-EASY - Eat (comer) Activity (atividade) Sleep (dormir) You (você)
+EASY - 
+
+*E*at (comer) - primeiro vive acorda o bebê para comer. 
+
+*A*ctivity (atividade) - depois você interage com o bebê. 
+
+*S*leep (dormir) - depois o bebê dorme. (nos primeiros dias é mais difícil manter ele acordado do que fazê-lo dormir)
+
+*Y*ou (você) - aí você descansa. 
 
 *Nunca será “easy”, mas ajuda.*
 
